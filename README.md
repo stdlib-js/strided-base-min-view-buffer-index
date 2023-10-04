@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minViewBufferIndex from 'https://cdn.jsdelivr.net/gh/stdlib-js/strided-base-min-view-buffer-index@deno/mod.js';
+import minViewBufferIndex from 'https://cdn.jsdelivr.net/gh/stdlib-js/strided-base-min-view-buffer-index@v0.1.1-deno/mod.js';
 ```
 
 #### minViewBufferIndex( N, stride, offset )
@@ -90,7 +90,7 @@ var idx = minViewBufferIndex( 3, -2, 10 );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import minViewBufferIndex from 'https://cdn.jsdelivr.net/gh/stdlib-js/strided-base-min-view-buffer-index@deno/mod.js';
+import minViewBufferIndex from 'https://cdn.jsdelivr.net/gh/stdlib-js/strided-base-min-view-buffer-index@v0.1.1-deno/mod.js';
 
 // Generate a random number of indexed elements:
 var N = discreteUniform( 10, 20 );
