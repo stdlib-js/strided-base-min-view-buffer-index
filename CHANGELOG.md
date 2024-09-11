@@ -2,6 +2,61 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-09-11)
+
+<section class="features">
+
+### Features
+
+-   [`50795c2`](https://github.com/stdlib-js/stdlib/commit/50795c21034e39baf48e77ef50358af6f52ceb96) - add C API
+
+</section>
+
+<!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`2ca8d8f`](https://github.com/stdlib-js/stdlib/commit/2ca8d8f5f7b6db6f38c3149e0d524db6d9e80b59) - update declaration
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`2ca8d8f`](https://github.com/stdlib-js/stdlib/commit/2ca8d8f5f7b6db6f38c3149e0d524db6d9e80b59) - **fix:** update declaration _(by Athan Reines)_
+-   [`50795c2`](https://github.com/stdlib-js/stdlib/commit/50795c21034e39baf48e77ef50358af6f52ceb96) - **feat:** add C API _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-26)
