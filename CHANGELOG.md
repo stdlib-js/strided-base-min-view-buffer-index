@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-09)
+## Unreleased (2024-12-24)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`7d6450c`](https://github.com/stdlib-js/stdlib/commit/7d6450c671dd91fffbec536a216a76f9e094dad0) - **docs:** update related packages sections [(#4186)](https://github.com/stdlib-js/stdlib/pull/4186) _(by stdlib-bot)_
 -   [`2ca8d8f`](https://github.com/stdlib-js/stdlib/commit/2ca8d8f5f7b6db6f38c3149e0d524db6d9e80b59) - **fix:** update declaration _(by Athan Reines)_
 -   [`50795c2`](https://github.com/stdlib-js/stdlib/commit/50795c21034e39baf48e77ef50358af6f52ceb96) - **feat:** add C API _(by Athan Reines)_
 

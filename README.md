@@ -237,6 +237,12 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/strided-base/offset-view`][@stdlib/strided/base/offset-view]</span><span class="delimiter">: </span><span class="description">return a typed array view having the same data type as a provided input typed array and starting at a specified index offset.</span>
+
 </section>
 
 <!-- /.related -->
@@ -312,6 +318,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/strided-base-min-view-buffer-index/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/strided-base-min-view-buffer-index/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/strided/base/offset-view]: https://github.com/stdlib-js/strided-base-offset-view
+
+<!-- </related-links> -->
 
 </section>
 
